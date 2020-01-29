@@ -14,7 +14,7 @@ export default ({ data }) => {
         Money never sleeps.
       </h1>
       <h4 className={styles.feature}>
-        {data.allMarkdownRemark.totalCount} Featured Posts
+        Featured Posts
       </h4>
       {data.allMarkdownRemark.edges.map(({ node }) => (
         <article className={styles.item}>
