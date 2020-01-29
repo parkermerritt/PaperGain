@@ -29,33 +29,33 @@ exports.createPages = async ({ actions, graphql }) => {
       title:
         "Welcome to Paper Gain.",
       content:
-        "Vestibulum vestibulum finibus sem at fringilla. Morbi sed metus eu libero tincidunt pretium vel et nunc. Maecenas elementum fermentum dignissim. Cras vestibulum congue nisl, vitae euismod lectus ultricies sed. Mauris euismod fermentum ligula, a vehicula orci posuere ut. Maecenas congue sapien sit amet est pellentesque, eu rhoncus erat volutpat. Integer ut odio mattis, scelerisque magna ut, interdum urna. Aliquam sollicitudin enim sit amet bibendum mattis. Suspendisse vitae luctus sem, vitae luctus lorem. Aenean luctus risus sed rutrum vulputate. Donec vel auctor velit.",
+        "Paper Gain is an online media franchise focused on entrepreneurship, finance, and technology.",
     },
     {
       name: "contact",
       title:
         "We'd love to hear from you.",
       content:
-        "Vestibulum vestibulum finibus sem at fringilla. Morbi sed metus eu libero tincidunt pretium vel et nunc. Maecenas elementum fermentum dignissim. Cras vestibulum congue nisl, vitae euismod lectus ultricies sed. Mauris euismod fermentum ligula, a vehicula orci posuere ut. Maecenas congue sapien sit amet est pellentesque, eu rhoncus erat volutpat. Integer ut odio mattis, scelerisque magna ut, interdum urna. Aliquam sollicitudin enim sit amet bibendum mattis. Suspendisse vitae luctus sem, vitae luctus lorem. Aenean luctus risus sed rutrum vulputate. Donec vel auctor velit.",
+        "We're always looking for feedback on our ideas.",
     },
     {
       name: "privacy",
       title:
-        "This is the privacy page. You can change this title in gatsby-node.js",
+        "This is the privacy page.",
       content:
-        "Vestibulum vestibulum finibus sem at fringilla. Morbi sed metus eu libero tincidunt pretium vel et nunc. Maecenas elementum fermentum dignissim. Cras vestibulum congue nisl, vitae euismod lectus ultricies sed. Mauris euismod fermentum ligula, a vehicula orci posuere ut. Maecenas congue sapien sit amet est pellentesque, eu rhoncus erat volutpat. Integer ut odio mattis, scelerisque magna ut, interdum urna. Aliquam sollicitudin enim sit amet bibendum mattis. Suspendisse vitae luctus sem, vitae luctus lorem. Aenean luctus risus sed rutrum vulputate. Donec vel auctor velit.",
+        "Ooh baby I like it raw Shimmy Shimmy Ya.",
     },
     {
       name: "cookies",
       title:
-        "This is the cookies page. You can change this title in gatsby-node.js",
+        "This is the cookies page.",
       content:
-        "Vestibulum vestibulum finibus sem at fringilla. Morbi sed metus eu libero tincidunt pretium vel et nunc. Maecenas elementum fermentum dignissim. Cras vestibulum congue nisl, vitae euismod lectus ultricies sed. Mauris euismod fermentum ligula, a vehicula orci posuere ut. Maecenas congue sapien sit amet est pellentesque, eu rhoncus erat volutpat. Integer ut odio mattis, scelerisque magna ut, interdum urna. Aliquam sollicitudin enim sit amet bibendum mattis. Suspendisse vitae luctus sem, vitae luctus lorem. Aenean luctus risus sed rutrum vulputate. Donec vel auctor velit.",
+        "Cache rules everything around me.",
     },
     {
       name: "404",
       title:
-        "This is the error page. You can change this title in gatsby-node.js",
+        "This is the error page. Please try again.",
     },
   ]
   pageData.forEach(page => {
