@@ -8,10 +8,10 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     title: `Paper Gain`,
-    titleTemplate: `Paper Gain entrepreneurship blog`,
+    titleTemplate: `Paper Gain - Money Never Sleeps`,
     siteUrl: `https://papergain.com`,
-    description: `Paper Gain entrepreneurship blog`,
-    author: `Parker Merritt`,
+    description: `Paper Gain - Money Never Sleeps`,
+    author: `Paper Gain Media`,
     twitterUsername: `@GainPaper`,
     twitterURL: `https://twitter.com/parkermerritt`,
     linkedInURL: `https://www.linkedin.com/in/parker-merritt`,
